@@ -1,9 +1,9 @@
-for (let i = 1; i <= 10; i++){
-    console.log(i);
-}
+// for (let i = 1; i <= 10; i++){
+//     console.log(i);
+// }
 
-let numbers = [1, 2, 3, 4, 5];
-let sum = 0;
+// let numbers = [1, 2, 3, 4, 5];
+// let sum = 0;
 
 for (let i = 0; i < numbers.length; i++) {
     sum += numbers[i];
